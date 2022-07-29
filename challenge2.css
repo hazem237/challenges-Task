@@ -1,0 +1,22 @@
+.rectangle
+{
+        width:77px;
+    height: 188px;
+    position: absolute;
+    top:222px;
+    background-color: white;
+    
+}
+.square
+{
+    width:200px;
+    height: 200px;
+    border: 20px solid burlywood;
+}
+html,body
+{
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
